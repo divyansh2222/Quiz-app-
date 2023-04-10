@@ -1,1 +1,1 @@
-# javascript-html-css-using-quiz-app
+#Quiz app using HTML css and Javascript
